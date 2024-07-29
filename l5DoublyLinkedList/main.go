@@ -35,3 +35,11 @@ func main() {
 	fmt.Printf("%v %v %v\n", list, item, err)
 
 }
+
+/*Double-linked list
+Purpose: https://en.wikipedia.org/wiki/Doubly_linked_list?Ожидаемые types (pseudocode):?``
+// List // container type Len() // list length First() // first Item
+Last() // last Item PushFront(v interface{}) // add value to the beginning
+PushBack(v interface{}) // add value to the end Remove(i Item) // remove item?Item // list item
+Value() interface{} // returns value Nex() *Item // next Item Prev() *Item // previous
+Implement a doubly linked list in Go language*/

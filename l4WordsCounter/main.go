@@ -12,3 +12,7 @@ func main() {
 
 	fmt.Println(res)
 }
+
+/*Frequency Analysis
+Write a function that takes text as input and returns the
+10 most frequent words without considering word forms*/
